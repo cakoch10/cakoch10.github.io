@@ -193,12 +193,12 @@ tbody tr:nth-child(odd) th {
 
 /* Sidebar links */
 .sidebar a {
-  color: #caad00;
+  color: #82ca00;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #caad00;
+  color: #82ca00;
   margin-top: 0;
   font-family: 'Noto Serif', serif;
   font-size: 2.25rem;
@@ -274,7 +274,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #caad00;
+  color: #82ca00;
 }
 
 /*
@@ -386,7 +386,7 @@ a.sidebar-nav-item:focus {
 
 /* Thin Scrollbar */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 10px;
 }
 ::-webkit-scrollbar-button {
   width: 8px;
