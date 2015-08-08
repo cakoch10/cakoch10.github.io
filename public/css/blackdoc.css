@@ -64,7 +64,7 @@ a:hover {
   display: inline-block;
   padding: .25rem 1rem;
   font-family: "PT Sans", sans-serif;
-  color: #8bebcb;
+  color: #587A9C;
   border: .1rem solid #32343c;
   border-radius: .1rem;
 }
@@ -88,7 +88,7 @@ code {
 }
 
 pre {
-  background-color: #222;
+  background-color: #587A9C;
 }
 
 pre { white-space: pre; overflow: auto !important; }
@@ -120,7 +120,7 @@ tbody tr:nth-child(odd) th {
 
 /* Pagination items can be `span`s or `a`s */
 .pagination-item {
-  border: 1px solid #444;
+  border: 1px solid #587A9C;
 }
 
 @media (min-width: 48em) {
@@ -314,7 +314,7 @@ a.sidebar-nav-item:focus {
 
 /* Red */
 .theme-base-08 .sidebar {
-  background-color: #ac4142;
+  background-color: #587A9C;
 }
 .theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
