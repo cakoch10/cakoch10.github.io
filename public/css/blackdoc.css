@@ -42,12 +42,13 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'EB Garamond', serif;
-  color: #7FFF00;
+  color: #000;
 }
+/*This above changes title*/
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   font-family: 'EB Garamond', serif;
-  color: #000000;
+  color: #7FFF00;
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   font-synthesis: weight style;
