@@ -40,7 +40,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'EB Garamond', serif;
-  color: #aaa;
+  color: #000000;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -64,7 +64,7 @@ a:hover {
   display: inline-block;
   padding: .25rem 1rem;
   font-family: "PT Sans", sans-serif;
-  color: #ebcb8b;
+  color: #8bebcb;
   border: .1rem solid #32343c;
   border-radius: .1rem;
 }
