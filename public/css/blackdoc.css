@@ -179,7 +179,7 @@ tbody tr:nth-child(odd) th {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: rgba(200, 54, 54,.5);
   background-color: #000000;
   overflow: auto;
 }
