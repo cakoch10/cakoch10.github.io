@@ -2,7 +2,6 @@
 
 BlackDoc is a two-column [Jekyll](http://jekyllrb.com) theme that's ideal for websites that require a master-detail layout for viewing of content. It's based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme.
 
-![BlackDoc screenshot](https://raw.githubusercontent.com/karloespiritu/blackdoc/master/public/images/blackdoc-screenshot.jpg)
 
 ## Contents
 
@@ -62,7 +61,6 @@ To create your own theme, look to the Themes section of [included CSS file](http
 
 ### Reverse layout
 
-![BlackDoc reverse screenshot](https://raw.githubusercontent.com/karloespiritu/BlackDoc/master/public/images/reverse-screenshot.png)
 
 BlackDoc's page orientation can be reversed with a single class.
 
