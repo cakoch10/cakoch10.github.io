@@ -317,7 +317,7 @@ a.sidebar-nav-item:focus {
 
 /* Red */
 .theme-base-08 .sidebar {
-  background-color: #587A9C;
+  background-color: #000;
 }
 .theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
@@ -344,7 +344,7 @@ a.sidebar-nav-item:focus {
 
 /* Green */
 .theme-base-0b .sidebar {
-  background-color: #00FFFF;
+  background-color: #f2f2f0;
 }
 .theme-base-0b .content a,
 .theme-base-0b .related-posts li a:hover {
