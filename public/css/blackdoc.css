@@ -277,7 +277,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #5c5c4f;
+  color: #f2f2f0;
 }
 
 /*
@@ -326,7 +326,7 @@ a.sidebar-nav-item:focus {
 
 /* Orange */
 .theme-base-09 .sidebar {
-  background-color: #FF8C00;
+  background-color: #f2f2f0;
 }
 .theme-base-09 .content a,
 .theme-base-09 .related-posts li a:hover {
