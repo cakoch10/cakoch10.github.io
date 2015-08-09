@@ -1,17 +1,4 @@
 /*
-______ _            _   ______
-| ___ \ |          | |  |  _  \
-| |_/ / | __ _  ___| | _| | | |___   ___
-| ___ \ |/ _` |/ __| |/ / | | / _ \ / __|
-| |_/ / | (_| | (__|   <| |/ / (_) | (__
-\____/|_|\__,_|\___|_|\_\___/ \___/ \___|
-
- *
- * Designed, built, and released under MIT license by @karloespiritu.
- */
-
-
-/*
  * Contents
  *
  * Global resets
@@ -37,7 +24,7 @@ html {
 
 body {
   color: #587A9C;
-  background-color: #587A9C;
+  background-color: #f2f2f0;
 }
 
 h1, h2, h3, h4, h5, h6 {
