@@ -201,7 +201,7 @@ tbody tr:nth-child(odd) th {
 
 /* About section */
 .sidebar-about h1 {
-  color: #00FFFF;
+  color: #5c5c4f;
   margin-top: 0;
   font-family: 'Noto Serif', serif;
   font-size: 2.25rem;
@@ -277,7 +277,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #7FFF00;
+  color: #5c5c4f;
 }
 
 /*
