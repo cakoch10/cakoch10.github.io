@@ -106,7 +106,7 @@ hr {
 }
 
 blockquote {
-  color: #000000;
+  color: #f2f2f0;
   border-left: .25rem solid #333;
 }
 
@@ -180,7 +180,7 @@ tbody tr:nth-child(odd) th {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(200, 54, 54,.5);
-  background-color: #000000;
+  background-color: #f2f2f0;
   overflow: auto;
 }
 @media (min-width: 48em) {
@@ -196,7 +196,7 @@ tbody tr:nth-child(odd) th {
 
 /* Sidebar links */
 .sidebar a {
-  color: #000000;
+  color:#f2f2f0;
 }
 
 /* About section */
