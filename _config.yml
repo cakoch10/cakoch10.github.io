@@ -9,13 +9,13 @@ relative_permalinks: true
 # Setup
 title:            Caleb Koch
 tagline:          A human
-description:      Stuff about me
+description:      Relevant Links
 url:              https://github.com/
 #baseurl:          /
 
 author:
   name:           'Caleb Koch'
-  url:            https://mywebsite
+  url:            https://github.com/
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/mygithub
+  repo:           https://github.com/cakoch10
