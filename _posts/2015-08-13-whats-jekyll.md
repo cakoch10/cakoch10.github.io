@@ -3,7 +3,11 @@ layout: post
 title: This is me
 ---
 
-Welcome to my personal website! 
+<span style="color:#f2f2f0">
+Welcome to my personal website!
+<\span>
+
+
 <!--
 [Jekyll](http://jekyllrb.com) <span style="color:#f2f2f0"> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From </span> [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
 
