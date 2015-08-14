@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is me
+title: This is me.
 ---
 
 <span style="color:#f2f2f0">Welcome to my personal website!
