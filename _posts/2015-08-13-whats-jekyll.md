@@ -4,8 +4,7 @@ title: This is me
 ---
 
 <span style="color:#f2f2f0">
-Welcome to my personal website!
-<\span>
+Welcome to my personal website!<\span>
 
 
 <!--
