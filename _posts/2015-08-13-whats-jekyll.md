@@ -4,7 +4,7 @@ title: Welcome to my personal website!
 ---
 
 <span style="color:#f2f2f0">
-I made this website as a place where I can group together some relevant links and information pertaining to my projects, research, and papers. To the left you can find links to my past papers, coding projects, mobile app, and Instructables articles. This website is hosted by GitHub and can be found [here]{https://github.com/cakoch10/cakoch10.github.io}.
+I made this website as a place where I can group together some relevant links and information pertaining to my projects, research, and papers. To the left you can find links to my past papers, coding projects, mobile app, and Instructables articles. This website is hosted by GitHub and can be found [here](https://github.com/cakoch10/cakoch10.github.io).
 </span>
 
 <!--
