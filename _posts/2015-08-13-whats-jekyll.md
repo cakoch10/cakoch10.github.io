@@ -3,8 +3,7 @@ layout: post
 title: This is me
 ---
 
-<span style="color:#f2f2f0">
-Welcome to my personal website!<\span>
+<span style="color:#f2f2f0">Welcome to my personal website!<\span>
 ![Small Test Image]{me.jpeg}
 
 <!--
