@@ -50,9 +50,10 @@ a:hover {
   color: #caad00;
 }
 
+/*Changed from .25*/
 .btn {
   display: inline-block;
-  padding: .25rem 1rem;
+  padding: 1rem 1rem;
   font-family: "PT Sans", sans-serif;
   color: #f2f2f0;
   border: .1rem solid #32343c;
