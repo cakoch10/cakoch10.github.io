@@ -77,6 +77,10 @@ code {
   background-color: #222;
 }
 
+img {
+  max-width: 100%;
+}
+
 pre {
   background-color: #f2f2f0;
 }
