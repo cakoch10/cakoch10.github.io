@@ -81,6 +81,12 @@ img {
   max-width: 100%;
 }
 
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+    
 pre {
   background-color: #f2f2f0;
 }
