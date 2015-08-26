@@ -52,7 +52,7 @@ a:hover {
 
 .btn {
   display: inline-block;
-  padding: .25rem 1rem;
+  padding: 0.25rem 1rem;
   font-family: "PT Sans", sans-serif;
   color: #f2f2f0;
   border: .1rem solid #32343c;
@@ -77,6 +77,16 @@ code {
   background-color: #222;
 }
 
+img {
+  max-width: 100%;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+    
 pre {
   background-color: #f2f2f0;
 }
@@ -162,10 +172,10 @@ tbody tr:nth-child(odd) th {
  * Flexible banner for housing site name, intro, and "footer" content. Starts
  * out above content in mobile and later moves to the side with wider viewports.
  */
-
+ 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 2rem 2rem;
   color: rgba(200, 54, 54,.5);
   background-color: #f2f2f0;
   overflow: auto;
