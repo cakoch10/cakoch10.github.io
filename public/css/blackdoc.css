@@ -34,8 +34,9 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   font-synthesis: weight style;
 }
 
+/*This above changes link?*/
 a {
-  color: #F0FFFF;
+  color: #00FF00;
   transition: color ease 0.3s;
 }
 
