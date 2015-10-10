@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            [Caleb Koch](cakoch10.github.io)
 tagline:          A human
 description:      Programmer, student, hobbyist, researcher
-url:              
-#baseurl:         
+url:              cakoch10.github.io
+#baseurl:         cakoch10.github.io
 
 author:
   name:           'Caleb Koch'
-  url:            
+  url:            cakoch10.github.io
 
 paginate:         5
 
