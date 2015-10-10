@@ -1,0 +1,44 @@
+---
+layout: post
+title: Cellular Automata
+---
+
+<span style="color:#f2f2f0">
+I made this website as a place where I can group together some relevant links and information pertaining to my projects, research, and writing. To the left are the main links which are discussed below. The source code for this website is available [online](https://github.com/cakoch10/cakoch10.github.io). I will be adding more content soon.
+</span>
+
+#Projects
+<span style="color:#f2f2f0">
+I have been actively involved in various research projects mainly in the area of mathematics and computer science. The link to the left leads to my ResearchGate profile. The two main projects on which I am currently working involve cellular automata and electromagnetic braking.
+</span>
+##Cellular Automata
+<span style="color:#f2f2f0">
+With cellular automata (CA), I have mainly focused on the evolution of an nxn square in Conway’s Game of Life.  I've developed simulation programs to search for certain patterns. Some of these can be found on [GitHub](https://github.com/cakoch10/Patterns_in_Game_of_Life).
+<span style="color:#f2f2f0">
+</span>
+
+##Chemistry Made Easy
+<img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/IconFin2_opt_opt.png" alt="Drawing" style="width: 100px;"/>
+<span style="color:#f2f2f0">
+This project began as a simple concept developed in 2014 at NC State's Engineering Summer Program in Computer Science. The app is designed as a chemistry calculator to solve formulaic problems. I have been meaning to update its functionality but have not yet gotten the chance. It has been published on [Google Play](https://play.google.com/store/apps/details?id=appinventor.ai_cakoch10.ChemistryMadeEasy). 
+</span>
+
+<!--
+[Jekyll](http://jekyllrb.com) <span style="color:#f2f2f0"> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From </span> [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+
+  > Jekyll is a simple static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from Github.
+-->
+
+##Ornithopters
+<span style="color:#f2f2f0">
+Here's a video of me flying an ornithopter at the NIA (I built the tail on this one). If you are unable to view the video, you can download the [mp4 file](https://github.com/cakoch10/cakoch10.github.io/blob/master/public/OrnithopterFlight.mp4?raw=true).
+<video  width="320" height="240" controls>
+  <source src="https://github.com/cakoch10/cakoch10.github.io/blob/master/public/OrnithopterFlight.mp4?raw=true" type="video/mp4" media="all and (max-width: 480px)">
+  
+  <div class="fallback">
+      <p>You must have an HTML5 capable browser.</p>
+  </div>
+
+Your browser does not support the video tag.
+</video>
+</span>
