@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            [Caleb Koch](cakoch10.github.io)
+title:            Caleb Koch
 tagline:          A human
 description:      Programmer, student, hobbyist, researcher
 url:              cakoch10.github.io
@@ -15,7 +15,7 @@ url:              cakoch10.github.io
 
 author:
   name:           'Caleb Koch'
-  url:            cakoch10.github.io
+  url:
 
 paginate:         5
 
