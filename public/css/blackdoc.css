@@ -191,12 +191,11 @@ tbody tr:nth-child(odd) th {
 }
 
 /* About section */
-.sidebar-about h1 {
+.sidebar-automata h1 {
   color: #5c5c4f;
   margin-top: 0;
   font-family: 'Noto Serif', serif;
   font-size: 2.25rem;
-
 }
 
 /* Sidebar nav */
