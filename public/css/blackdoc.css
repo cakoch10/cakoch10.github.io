@@ -191,7 +191,7 @@ tbody tr:nth-child(odd) th {
 }
 
 /* About section */
-.sidebar-automata h1 {
+.sidebar-about h1 {
   color: #5c5c4f;
   margin-top: 0;
   font-family: 'Noto Serif', serif;
