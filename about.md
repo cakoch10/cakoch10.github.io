@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cellular Automata
+title: About
 ---
 
 ##Cellular Automata
