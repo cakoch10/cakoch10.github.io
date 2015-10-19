@@ -103,6 +103,7 @@ strong {
 
 /* Lists */
 ul, ol, dl {
+  color: #000000;
   margin-top: 0;
   margin-bottom: 1rem;
 }
