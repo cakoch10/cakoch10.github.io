@@ -11,7 +11,7 @@ title:            Caleb Koch
 tagline:          A human
 description:      Programmer, student, hobbyist, researcher
 url:              cakoch10.github.io
-#baseurl:         cakoch10.github.io
+baseurl:          /
 
 author:
   name:           'Caleb Koch'
