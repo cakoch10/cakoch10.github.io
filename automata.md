@@ -4,7 +4,11 @@ title: About Cellular Automata
 ---
 
 <span style="color:#f2f2f0">
-With cellular automata (CA), I have mainly focused on the evolution of an nxn square in Conway’s Game of Life.  I've developed simulation programs to search for certain patterns. Some of these can be found on [GitHub](https://github.com/cakoch10/Patterns_in_Game_of_Life).
+How predictable is cellular automaton behavior in Conway's Game of Life (GoL)?  My research is driven by this question, and I believe there are three steps leading to an answer
+
+1. Identify a pattern in GoL
+2. Mathematically prove that this pattern continues indefinitely
+3. Conclude that GoL is more predictable than previously regarded
 </span>
 
 <span style="color:#f2f2f0">
