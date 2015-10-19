@@ -44,10 +44,10 @@ html {
   }
 }
 
-/*587A9C*/
+/*Changes color of main body*/
 body {
-  color: #FFFFFF;
-  background-color: #FFFFFF;
+  color: #587A9C;
+  background-color: #587A9C;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
