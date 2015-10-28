@@ -13,5 +13,5 @@ explore the geometric properties of the fractal and how it maintained regularity
 
 <img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/square.PNG" alt="Drawing" style="width: 100px;"/>
 
-A GIF: https://en.wikipedia.org/wiki/Koch_snowflake#/media/File:Von_Koch_curve.gif
+<img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/Von_Koch_curve.gif" alt="Drawing" style="width: 100px;"/>
 
