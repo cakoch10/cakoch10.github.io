@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            Caleb Koch
 tagline:          A human
 description:      Programmer, student, hobbyist, researcher
-url:              
-#baseurl:         
+url:              cakoch10.github.io
+baseurl:          /
 
 author:
   name:           'Caleb Koch'
-  url:            
+  url:
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           
+  repo:           https://github.com/cakoch10/cakoch10.github.io

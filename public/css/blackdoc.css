@@ -1,21 +1,3 @@
-/*
- * Contents
- *
- * Global resets
- * Sidebar
- * Container
- * Reverse layout
- * Themes
- * Scrollbar
- */
-
-
-/*
- * Global resets
- *
- * Update the foundational and global aspects of the page.
- */
-
 html {
   font-family: "Big Caslon", Helvetica, Arial, sans-serif;
 }
@@ -41,8 +23,9 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   font-synthesis: weight style;
 }
 
+/*This changes link*/
 a {
-  color: #F0FFFF;
+  color: #ff6666;
   transition: color ease 0.3s;
 }
 
@@ -202,7 +185,6 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
   font-family: 'Noto Serif', serif;
   font-size: 2.25rem;
-
 }
 
 /* Sidebar nav */
@@ -406,4 +388,3 @@ a.sidebar-nav-item:focus {
 ::-webkit-scrollbar-thumb:hover {
   background:#7d7d7d;
 }
-

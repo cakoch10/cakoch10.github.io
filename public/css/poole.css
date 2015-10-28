@@ -32,7 +32,6 @@ body {
   padding: 0;
 }
 
-<body style=*background-color:green*>
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -45,6 +44,7 @@ html {
   }
 }
 
+/*Changes color of main body*/
 body {
   color: #587A9C;
   background-color: #587A9C;
@@ -103,6 +103,7 @@ strong {
 
 /* Lists */
 ul, ol, dl {
+  color: #000000;
   margin-top: 0;
   margin-bottom: 1rem;
 }
