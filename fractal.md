@@ -18,4 +18,5 @@ explore the geometric properties of the fractal and how it maintained regularity
 
 <figure>
   <img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/Von_Koch_curve.gif" alt="Drawing" style="width: 500px;"/>
+  <figcaption><span style="color:#f2f2f0">Simulating the first several iterations of the traditional Koch snowflake</span></figcaption>
 </figure>
