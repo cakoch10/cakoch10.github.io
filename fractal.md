@@ -13,7 +13,7 @@ explore the geometric properties of the fractal and how it maintained regularity
 
 <figure>
   <img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/square.PNG" alt="Drawing" style="width: 500px;" />
-  <figcaption>Example of a fractal created by applying "Koch methodology" to a square</figcaption>
+  <figcaption><span style="color:#f2f2f0">Example of a fractal created by applying "Koch methodology" to a square</span></figcaption>
 </figure>
 
 <img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/Von_Koch_curve.gif" alt="Drawing" style="width: 500px;"/>
