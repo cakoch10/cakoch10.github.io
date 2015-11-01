@@ -11,6 +11,9 @@ How predictable is cellular automaton behavior in Conway's Game of Life (GoL)?  
 2. <span style="color:#f2f2f0">Mathematically prove that this pattern continues indefinitely</span>
 3. <span style="color:#f2f2f0">Conclude that GoL is more predictable than previously regarded</span>
 
+I have already written a paper on step 1. Soon, I plan on publishing two papers fulfilling step 2. Of course, 3 follows directly from 2, so it can be addressed in the same papers adressing 2.
+
+To derive the proof referenced in 2, 
 <span style="color:#f2f2f0">
 Citations for paper regarding cellular automata
 </span>
