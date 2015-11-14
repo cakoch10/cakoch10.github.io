@@ -9,16 +9,16 @@ title: About Electromagnetic Braking
 <span style="color:#f2f2f0">Here are some photos of my setup.</span>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/main.jpg" alt="Photo of Brake" style="width: 500px;" />
+  <img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/main.jpg" alt="Photo of Brake" style="width: 400px;" />
   <figcaption><span style="color:#f2f2f0">The braking system setup on a bicycle wheel</span></figcaption>
 </figure>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/power.jpg" alt="Photo of Brake" style="width: 500px;" />
+  <img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/power.jpg" alt="Photo of Brake" style="width: 400px;" />
   <figcaption><span style="color:#f2f2f0">The power supply used to convert AC to DC and modulate voltage</span></figcaption>
 </figure>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/diagram.jpg" alt="Photo of Brake" style="width: 500px;" />
+  <img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/diagram.jpg" alt="Photo of Brake" style="width: 300px;" />
   <figcaption><span style="color:#f2f2f0">Close-up of the electromagnet</span></figcaption>
 </figure>
