@@ -22,3 +22,8 @@ title: About Electromagnetic Braking
   <img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/diagram.jpg" alt="Photo of Brake" style="width: 300px;" />
   <figcaption><span style="color:#f2f2f0">Close-up of the electromagnet</span></figcaption>
 </figure>
+
+<span style="color:#f2f2f0">Additional reading</span>
+
+> - <span style="color:#f2f2f0">*Reducing Angular Velocity by Means of Electromagnetism* (2015). Published on ResearchGate DOI: 10.13140/RG.2.1.5098.5686. [PDF](https://www.researchgate.net/profile/Caleb_Koch/publication/280204540_Reducing_Angular_Velocity_by_Means_of_Electromagnetism/links/55ad9a0c08aee079921e2c1b.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=HLXOwWbnWT_sVT7uVtXovYINC_736Ktv6AekC6KsgNTGMdFNpHzpLiyfbcEcOv61UTJBeak0AuTC_7yNqD3Lqi-U0y18fOp1ev24W5VYW8o.JaJUZ3RtzamK8uFYRwqkaj3HAWFugFjBGvZvfmP3GAcO2ckygx3qHQ0gcwU4FzQBReohIZgXKH99aSq8SakZRQ.PQsW0u5fAyz3G9G4LXt5PTDREQx60UbWGz4ZNOeaKdZGkd2-6rNtSOHowhd7c9uyY0f0WZi-rW9awnurszRsdQ).</span>
+> - <span style="color:#f2f2f0">*Designing and Testing an Electromagnetic Braking System* (2015). Published on Instructibles. [Online article](http://www.instructables.com/id/Designing-and-Testing-an-Electromagnetic-Braking-S/step2/Power-Supply/)</span>
