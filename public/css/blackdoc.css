@@ -23,7 +23,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   font-synthesis: weight style;
 }
 
-/*This changes link*/
+/*This section changes link*/
 a {
   color: #ff6666;
   transition: color ease 0.3s;
