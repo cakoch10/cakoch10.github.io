@@ -15,7 +15,7 @@ title: About Electromagnetic Braking
 
 <figure>
   <img src="https://raw.githubusercontent.com/cakoch10/cakoch10.github.io/master/public/power.jpg" alt="Photo of Brake" style="width: 400px;" />
-  <figcaption><span style="color:#f2f2f0">The power supply used to convert AC to DC and modulate voltage. In the picture, 1 is the cord connected to the transformer, 2 is the transformer itself, 3 is the circuit board, and 4 is the terminal strip.</span></figcaption>
+  <figcaption><span style="color:#f2f2f0">The power supply used to convert AC to DC and modulate voltage. In the picture, 1 denotes the cord connected to the transformer, 2 is the transformer itself, 3 is the circuit board, and 4 is the terminal strip.</span></figcaption>
 </figure>
 
 <figure>
