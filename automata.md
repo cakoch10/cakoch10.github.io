@@ -4,7 +4,7 @@ title: About Cellular Automata
 ---
 
 <span style="color:#f2f2f0">
-How predictable is cellular automaton behavior in Conway's Game of Life (GoL)?  My research is driven by this question, and I believe there are three general steps leading to an answer.
+ predictable is cellular automaton behavior in Conway's Game of Life (GoL)?  My research is driven by this question, and I believe there are three general steps leading to an answer.
 </span>
 
 > 1. <span style="color:#f2f2f0">Identify a pattern in GoL</span>
