@@ -10,5 +10,5 @@ four species that indicated the relative biodiversity of the park. The biodivers
 </span>
 
 <span style="color:#f2f2f0">
-I completed this project for a school project. It was the individual investigation for IB Biology HL.
+I completed this project for school. It was the individual investigation for IB Biology HL.
 </span>
