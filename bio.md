@@ -13,7 +13,7 @@ four species that indicated the relative biodiversity of the park. The biodivers
 I completed this project for school. It was the individual investigation for IB Biology HL.
 </span>
 
-<object data="https://drive.google.com/file/d/0B4OeX3-AwFSzQ1VYWGdWeldtRU0/view" type="application/pdf" width="300" height="200">
+<object data="https://drive.google.com/file/d/0B4OeX3-AwFSzQ1VYWGdWeldtRU0/view" type="application/pdf" width="300" height="300">
  
   <p>It appears you don't have a PDF plugin for this browser. <a href="Anglers_Park_Article_Updated.pdf">Click here to
   download the PDF file.</a></p>
