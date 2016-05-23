@@ -26,3 +26,11 @@ As I worked through the diploma program, I couldn't help but wish that I could s
 <span style="color:#f2f2f0">
 Every diploma student writes an EE around 4,000 words which documents a particular research study within an academic subject. My EE was essentially a small piece of the ongoing research I've been conducting with [cellular automata](/automata). Click on the header to access the EE.
 </span>
+
+Biology
+
+
+English
+
+
+History
