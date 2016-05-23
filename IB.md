@@ -34,3 +34,9 @@ English
 
 
 History
+
+
+Mathematics
+
+
+Psychology
