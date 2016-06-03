@@ -24,6 +24,13 @@ The valedictorian (myself) and the salutatorian of my school were both interview
 <iframe width="420" height="315" src="https://www.youtube.com/embed/L8RtaSirh7s" frameborder="0" allowfullscreen></iframe>
 
 <h2>Quiz Bowl</h2>
+[Powerhouse seniors lead Galileo quiz bowl team to state tourney](http://www.godanriver.com/news/danville/powerhouse-seniors-lead-galileo-quiz-bowl-team-to-state-tourney/article_1d8ca354-1caa-59e6-b518-9b5dff4264f0.html)
+
+[First time ever, Galileo High School Quiz Bowl team gearing up for state championship](http://wset.com/news/local/first-time-ever-galileo-high-school-quiz-bowl-team-gearing-up-for-state-championship)
+
+<iframe width="420" height="315" frameborder="0" marginheight="0" marginwidth="0" src="http://wset.com/embed/news/local/first-time-ever-galileo-high-school-quiz-bowl-team-gearing-up-for-state-championship" ></iframe>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/kjJKjGQK-aQ" frameborder="0" allowfullscreen></iframe>
 
 <h2>Awards and Scholarships</h2>
 
