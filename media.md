@@ -22,3 +22,9 @@ Valedictorian speech delivered May 27, 2016 to the Galileo Magnet High School gr
 The valedictorian (myself) and the salutatorian of my school were both interviewed as a part of a youtube series the produced by the Danville Public School system.
 </span>
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=L8RtaSirh7s" frameborder="0" allowfullscreen></iframe>
+
+<h2>Quiz Bowl</h2>
+
+<h2>Awards and Scholarships</h2>
+
+<h2>Other</h2>
