@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Media/Public/Article Appearances/Occurrences
+title: Media/Public/Article Appearances or Occurrences
 ---
 
 <h2>Nature of this page</h2>
