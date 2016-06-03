@@ -161,6 +161,11 @@ tbody tr:nth-child(odd) th {
   color: rgba(200, 54, 54,.5);
   background-color: #f2f2f0;
   overflow: auto;
+      <style type="text/css">
+      body {
+            overflow-y:hidden;
+      }
+      </style>
 }
 @media (min-width: 48em) {
   .sidebar {
