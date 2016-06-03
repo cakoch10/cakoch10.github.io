@@ -10,7 +10,7 @@ This page includes links to videos or articles in which I appeared or which rela
 </span>
 
 
-<h2>Valedictorian Speech<h2>
+<h2>Valedictorian Speech</h2>
 
 <span style="color:#f2f2f0">
 Valedictorian speech delivered May 27, 2016 to the Galileo Magnet High School graduating class.
