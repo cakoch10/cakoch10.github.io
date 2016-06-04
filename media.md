@@ -49,3 +49,5 @@ The valedictorian (myself) and the salutatorian of my school were both interview
 [Intel Science Talent Search Competition](http://badging.societyforscience.org/users/cakoch10gmailcom)
 
 <h2>Other</h2>
+
+[Junior Leadership Southside VI graduates 19 students](http://www.godanriver.com/work_it_sova/news/junior-leadership-southside-vi-graduates-students/article_fa429eb0-ed36-11e4-8539-3f9174bbc3a6.html)
