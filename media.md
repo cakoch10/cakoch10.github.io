@@ -32,6 +32,8 @@ The valedictorian (myself) and the salutatorian of my school were both interview
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/kjJKjGQK-aQ" frameborder="0" allowfullscreen></iframe>
 
+[ACE Team wraps up 2015 season](http://galileomagnethighschool.com/1776/news/ace-team-wraps-up-2015-season/)
+
 <h2>Awards and Scholarships</h2>
 
 [Students earn scholarships from Danville Elks Lodge](http://www.godanriver.com/work_it_sova/news/students-earn-scholarships-from-danville-elks-lodge/article_6b1ed86e-245a-11e6-8a56-13e6e656cc02.html)
