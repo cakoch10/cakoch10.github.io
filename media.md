@@ -34,4 +34,16 @@ The valedictorian (myself) and the salutatorian of my school were both interview
 
 <h2>Awards and Scholarships</h2>
 
+[Students earn scholarships from Danville Elks Lodge](http://www.godanriver.com/work_it_sova/news/students-earn-scholarships-from-danville-elks-lodge/article_6b1ed86e-245a-11e6-8a56-13e6e656cc02.html)
+
+[Students honored as Graduates of Distinction](http://galileomagnethighschool.com/1980/news/students-honored-as-graduates-of-distinction/)
+
+[THE 76TH ANNUAL VIRGINIA BETA CLUB CONVENTION](https://www.betaclub.org/events/convention-winners/#/2015/s/na)
+
+[Galileo Betas travel to convention Feb. 12](http://galileomagnethighschool.com/1937/showcase/galileo-betas-travel-to-convention-feb-12/)
+
+[THE 75TH ANNUAL VIRGINIA BETA CLUB CONVENTION](https://www.betaclub.org/events/convention-winners/#/2015/s/na)
+
+[Intel Science Talent Search Competition](http://badging.societyforscience.org/users/cakoch10gmailcom)
+
 <h2>Other</h2>
