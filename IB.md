@@ -41,3 +41,5 @@ Every diploma student writes an EE around 4,000 words which documents a particul
 
 
 <h2>Psychology</h2>
+[Psychology IA](https://drive.google.com/file/d/0B4OeX3-AwFSzTjJjQ3p4TmxLTWc/view?usp=sharing)
+
