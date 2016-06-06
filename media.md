@@ -36,6 +36,8 @@ The valedictorian (myself) and the salutatorian of my school were both interview
 
 <h2>Awards and Scholarships</h2>
 
+[The Community Foundation gives out 82 scholarships worth more than $156,000](http://wset.com/news/local/the-community-foundation-gives-out-82-scholarships-worth-more-than-156000)
+
 [Students earn scholarships from Danville Elks Lodge](http://www.godanriver.com/work_it_sova/news/students-earn-scholarships-from-danville-elks-lodge/article_6b1ed86e-245a-11e6-8a56-13e6e656cc02.html)
 
 [Students honored as Graduates of Distinction](http://galileomagnethighschool.com/1980/news/students-honored-as-graduates-of-distinction/)
