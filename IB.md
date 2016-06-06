@@ -41,10 +41,12 @@ Every diploma student writes an EE around 4,000 words which documents a particul
 
 
 <h2>Psychology</h2>
-> - [Psychology IA](https://drive.google.com/file/d/0B4OeX3-AwFSzTjJjQ3p4TmxLTWc/view?usp=sharing)
+<ul>
+  <li>[Psychology IA](https://drive.google.com/file/d/0B4OeX3-AwFSzTjJjQ3p4TmxLTWc/view?usp=sharing)</li>
 
-> - [Broca's Study](https://drive.google.com/file/d/0B4OeX3-AwFSzX1EyNFM4cG9XTkE/view?usp=sharing)
+  <li>[Broca's Study](https://drive.google.com/file/d/0B4OeX3-AwFSzX1EyNFM4cG9XTkE/view?usp=sharing)</li>
 
-> - [Mirror Neurons](https://drive.google.com/file/d/0B4OeX3-AwFSzQkpLVG5oN0NmRGM/view?usp=sharing)
+  <li>[Mirror Neurons](https://drive.google.com/file/d/0B4OeX3-AwFSzQkpLVG5oN0NmRGM/view?usp=sharing)</li>
 
-> - [Twin Studies](https://drive.google.com/file/d/0B4OeX3-AwFSzYTZpbWluQkhLTmM/view?usp=sharing)
+  <li>[Twin Studies](https://drive.google.com/file/d/0B4OeX3-AwFSzYTZpbWluQkhLTmM/view?usp=sharing)</li>
+</ul>
