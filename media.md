@@ -53,3 +53,10 @@ The valedictorian (myself) and the salutatorian of my school were both interview
 <h2>Other</h2>
 
 [Junior Leadership Southside VI graduates 19 students](http://www.godanriver.com/work_it_sova/news/junior-leadership-southside-vi-graduates-students/article_fa429eb0-ed36-11e4-8539-3f9174bbc3a6.html)
+
+<span style="color:#f2f2f0">
+Here is my final project presentation for Junior Leadership Southside. I present a variation of the proof that 1 = 2. Altough it is hard to see the text on the whiteboard, you can follow along by looking at the proof [here](http://www.math.toronto.edu/mathnet/falseProofs/first1eq2.html).
+</span>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FrrVXj1McTU" frameborder="0" allowfullscreen></iframe>
+
