@@ -37,12 +37,12 @@ Every diploma student writes an EE around 4,000 words which documents a particul
 <h2>History</h2>
 <ul>
   <li><a href="https://drive.google.com/open?id=0B4OeX3-AwFSzLUNKNkljWUN4NTg" target="_blank">Domestic Social Changes During WWI</a></li>
-  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzUDNZalpaSUNIdHM/view?usp=sharing">Nationalism</a></li>
-  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzdC0wWjd2SERKRXM/view?usp=sharing">Policies of Bismarck</a></li>
-  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSza0xBM0hpSFVsVHc/view?usp=sharing">Policies of Great Britain from 1870-1900</a></li>
-  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzSW1YdVBHclY0Uk0/view?usp=sharing">Somme Mud Essay 1_Analysis of Lynch</a></li>
-  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzaXFRRjVaVnVDLTg/view?usp=sharing">Somme Mud Essay 2_Personal Opinion</a></li>
-  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzWEtVcHlpOTFzTUE/view?usp=sharing">Technology of WWI</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzUDNZalpaSUNIdHM/view?usp=sharing" target="_blank">Nationalism</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzdC0wWjd2SERKRXM/view?usp=sharing" target="_blank">Policies of Bismarck</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSza0xBM0hpSFVsVHc/view?usp=sharing" target="_blank">Policies of Great Britain from 1870-1900</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzSW1YdVBHclY0Uk0/view?usp=sharing" target="_blank">Somme Mud Essay 1_Analysis of Lynch</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzaXFRRjVaVnVDLTg/view?usp=sharing" target="_blank">Somme Mud Essay 2_Personal Opinion</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzWEtVcHlpOTFzTUE/view?usp=sharing" target="_blank">Technology of WWI</a></li>
 </ul>
 
 <h2>Mathematics</h2>
@@ -50,9 +50,9 @@ Every diploma student writes an EE around 4,000 words which documents a particul
 
 <h2>Psychology</h2>
 <ul>
-  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzTjJjQ3p4TmxLTWc/view?usp=sharing">Psychology IA</a></li>
-  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzX1EyNFM4cG9XTkE/view?usp=sharing">Broca's Study</a></li>
-  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzQkpLVG5oN0NmRGM/view?usp=sharing">Mirror Neurons</a></li>
-  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzYTZpbWluQkhLTmM/view?usp=sharing">Twin Studies</a></li>
-  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzdDZEa3NmUTl6NTQ/view?usp=sharing">Cognitive Development</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzTjJjQ3p4TmxLTWc/view?usp=sharing" target="_blank">Psychology IA</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzX1EyNFM4cG9XTkE/view?usp=sharing" target="_blank">Broca's Study</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzQkpLVG5oN0NmRGM/view?usp=sharing" target="_blank">Mirror Neurons</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzYTZpbWluQkhLTmM/view?usp=sharing" target="_blank">Twin Studies</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzdDZEa3NmUTl6NTQ/view?usp=sharing" target="_blank">Cognitive Development</a></li>
 </ul>
