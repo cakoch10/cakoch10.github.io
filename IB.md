@@ -35,7 +35,13 @@ Every diploma student writes an EE around 4,000 words which documents a particul
 
 
 <h2>History</h2>
-
+<ul>
+  <li><a href="https://drive.google.com/open?id=0B4OeX3-AwFSzLUNKNkljWUN4NTg">Domestic Social Changes During WWI</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzUDNZalpaSUNIdHM/view?usp=sharing">Nationalism</a></li>
+  <li><a href="https://drive.google.com/open?id=0B4OeX3-AwFSzdC0wWjd2SERKRXM">Mirror Neurons</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzYTZpbWluQkhLTmM/view?usp=sharing">Twin Studies</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzdDZEa3NmUTl6NTQ/view?usp=sharing">Cognitive Development</a></li>
+</ul>
 
 <h2>Mathematics</h2>
 
