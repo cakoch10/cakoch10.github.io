@@ -38,9 +38,11 @@ Every diploma student writes an EE around 4,000 words which documents a particul
 <ul>
   <li><a href="https://drive.google.com/open?id=0B4OeX3-AwFSzLUNKNkljWUN4NTg">Domestic Social Changes During WWI</a></li>
   <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzUDNZalpaSUNIdHM/view?usp=sharing">Nationalism</a></li>
-  <li><a href="https://drive.google.com/open?id=0B4OeX3-AwFSzdC0wWjd2SERKRXM">Mirror</a></li>
-  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzYTZpbWluQkhLTmM/view?usp=sharing">Twin</a></li>
-  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzdDZEa3NmUTl6NTQ/view?usp=sharing">Cognitive</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzdC0wWjd2SERKRXM/view?usp=sharing">Policies of Bismarck</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSza0xBM0hpSFVsVHc/view?usp=sharing">Policies of Great Britain from 1870-1900</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzSW1YdVBHclY0Uk0/view?usp=sharing">Somme Mud Essay 1_Analysis of Lynch</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzdDZEa3NmUTl6NTQ/view?usp=sharing">Somme Mud Essay 2_Personal Opinion</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzWEtVcHlpOTFzTUE/view?usp=sharing">Technology of WWI</a></li>
 </ul>
 
 <h2>Mathematics</h2>
