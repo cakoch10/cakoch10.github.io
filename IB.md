@@ -43,6 +43,7 @@ Every diploma student writes an EE around 4,000 words which documents a particul
   <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzSW1YdVBHclY0Uk0/view?usp=sharing" target="_blank">Somme Mud Essay 1_Analysis of Lynch</a></li>
   <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzaXFRRjVaVnVDLTg/view?usp=sharing" target="_blank">Somme Mud Essay 2_Personal Opinion</a></li>
   <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzWEtVcHlpOTFzTUE/view?usp=sharing" target="_blank">Technology of WWI</a></li>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzMnRPV3Jnc2t5M2s/view?usp=sharing" target="_blank">Interpretations on the Origin of WWI</a></li>
 </ul>
 
 <h2>Mathematics</h2>
