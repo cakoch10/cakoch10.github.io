@@ -56,6 +56,7 @@ Every diploma student writes an EE around 4,000 words which documents a particul
   <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzQkpLVG5oN0NmRGM/view?usp=sharing" target="_blank">Mirror Neurons</a></li>
   <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzYTZpbWluQkhLTmM/view?usp=sharing" target="_blank">Twin Studies</a></li>
   <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzdDZEa3NmUTl6NTQ/view?usp=sharing" target="_blank">Cognitive Development</a></li>
+  <li><a href="https://drive.google.com/open?id=0B4OeX3-AwFSzZE5QQWVuOGVlQ2s">Stereotypes and Behavior</a></li>
 </ul>
 
 <h2>Theory of Knowledge</h2>
