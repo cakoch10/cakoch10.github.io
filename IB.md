@@ -60,4 +60,6 @@ Every diploma student writes an EE around 4,000 words which documents a particul
 </ul>
 
 <h2>Theory of Knowledge</h2>
+<ul>
   <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzUHR3aUQ4djRUMVU/view?usp=sharing" target="_blank">Socrates and Questioning Everything</a></li>
+</ul>
