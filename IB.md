@@ -47,7 +47,8 @@ Every diploma student writes an EE around 4,000 words which documents a particul
 </ul>
 
 <h2>Mathematics</h2>
-
+<ul>
+  <li><a href="https://drive.google.com/file/d/0B4OeX3-AwFSzeXlMTzA0WkF6REU/view?usp=sharing" target="_blank">Mathematics IA</a></li>
 
 <h2>Psychology</h2>
 <ul>
