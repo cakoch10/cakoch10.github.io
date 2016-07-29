@@ -23,9 +23,9 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   font-synthesis: weight style;
 }
 
-/*This section changes link*/
+/*This section changes link ff6666, previous one*/
 a {
-  color: #ff6666;
+  color: #4C1E1E;
   transition: color ease 0.3s;
 }
 
@@ -160,7 +160,7 @@ tbody tr:nth-child(odd) th {
   padding: 2rem 2rem;
   color: rgba(200, 54, 54,.5);
   background-color: #f2f2f0;
-  overflow: auto;
+  overflow: hidden;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -170,7 +170,7 @@ tbody tr:nth-child(odd) th {
     bottom: 0;
     width: 18rem;
     text-align: left;
-  }
+    }
 }
 
 /* Sidebar links */
