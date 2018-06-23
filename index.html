@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang='en'>
-
-  <div id="particles-js"></div>
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,80 +17,81 @@
     <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-
   </head>
 
   <body>
     <div class="wrapper">
       <div class='container'>
-      <header>
-          <img id="photo" src="img/cak.jpg" alt="portrait"/>
-      </header>
-        <div class='greetings'>
-          <h2><span class='element'> </span></h2>
-        </div>
-      <main>
-        <center>
+      <header><img id="photo" src="img/cak.jpg" alt="portrait"/></header>
+      <main><center>
           <p>
             Hello! I'm Caleb. I study math and CS. <br></br> This is my personal website (my old one is <a href="https://calkoch.github.io/" target = "_blank">here</a>).
           </p>
-        </center>
-      </main>
-        <div class='social'>
-            <ul>
-              <li>
-                <a href="https://github.com/cakoch10" target="_blank">
-                  <i class="fa fa-github-square fa-2x"></i>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.linkedin.com/in/calebkoch" target="_blank">
-                  <i class="fa fa-linkedin-square fa-2x"></i>
-                </a>
-              </li>
-              <li>
-                <a href="https://scholar.google.com/citations?user=Q4kI-lMAAAAJ&hl=en" target = "_blank">
-                  <i class="ai ai-google-scholar-square ai-2x"></i>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.researchgate.net/profile/Caleb_Koch" target = "_blank">
-                  <i class="ai ai-researchgate-square ai-2x"></i>
-                </a>
-              </li>
-              <br></br>
-              <li>
-                <a href="mailto:cak247@cornell.edu" target="_blank">
-                  <i class="fa fa-envelope-square fa-2x"></i>
-                </a>
-              </li>
-              <li>
-                <a href="https://devpost.com/cak247" target="_blank">
-                  <img src="img/icons/devpost.svg" width="30" class="svg icon">
-                </a>
-              </li>
-              <li>
-                <a href="https://play.google.com/store/apps/details?id=appinventor.ai_cakoch10.ChemistryMadeEasy" target="_blank">
-                  <img src="img/icons/google-play.svg" width="25" class="svg icon2">
-                </a>
-              </li>
-            </ul>
-        </div>
-        <div class="resume">
-          <div class="button">
-            <a href="papers.html">Papers</a>
+      </center></main>
+      <div id="papers">
+          <h2>Papers</h2>
+          <div class="paper">
+              <div class="title">Hyperprofile-Based Computation Offloading for Mobile Edge Networks.</div>
+              <span class="authors">Andrew Crutcher, Caleb Koch, Kyle Coleman, Jon Patman, Flavio Esposito, and Prasad Calyam. </span><span class="conference">IEEE MASS 2017.</span> 
+              [<a href="hyperprofile-based-computation.pdf" class="links" rel="nofollow" target="_blank">PDF</a>] [<a href="poster" class="links" rel="nofollow" target="_blank">Poster</a>] [<a href="scholar.bib" class="links" rel="nofollow" target="_blank">BibTex</a>]
           </div>
-        </div>
-        <!-- <div class="resume">
-          <div class="button">
-            <a href="UpdatedResume2.pdf" target="_blank">Resume</a>
+          <br>
+          <div class="paper">
+              <div class="title">A Friendly Tour of Parikh's Theorem.</div>
+              <span class="authors">Caleb Koch.</span>
+              <span class="conference">Unpublished. May 2018.</span>
+              [<a href="/pdf" class="links" rel="nofollow">PDF</a>]
           </div>
-        </div> -->
-
+          <h2>Lecture Notes</h2>
+          <div class="paper">
+                  <span class="title">Probability and elementary measure theory.</span> Spring 2018 taught by Gennady Samorodnitsky. [<a href="/pdf" class="links" rel="nofollow">PDF</a>]
+          </div>
       </div>
-    <!--<footer> Copyright 2017 Caleb Koch </footer> -->
+      <!-- <button type="button" onclick="changeDiv(1)">Links</button>
+      <button type="button" onclick="changeDiv(2)">Papers</button> -->
+      <!-- <div id="ttt"></div> -->
+      <br>
+      <div class="social">
+        <center>
+          <a href="https://github.com/cakoch10" target="_blank">
+            <i class="fa fa-github-square fa-2x"></i>
+          </a>
+          <a href="https://www.linkedin.com/in/calebkoch" target="_blank">
+            <i class="fa fa-linkedin-square fa-2x"></i>
+          </a>
+          <a href="https://scholar.google.com/citations?user=Q4kI-lMAAAAJ&hl=en" target = "_blank">
+            <i class="ai ai-google-scholar-square ai-2x"></i>
+          </a>
+          <a href="https://www.researchgate.net/profile/Caleb_Koch" target = "_blank">
+            <i class="ai ai-researchgate-square ai-2x"></i>
+          </a>
+          <a href="mailto:cak247@cornell.edu" target="_blank">
+            <i class="fa fa-envelope-square fa-2x"></i>
+          </a>
+          <a href="https://devpost.com/cak247" target="_blank">
+            <img src="img/icons/devpost.svg" width="30" class="svg icon">
+          </a>
+          <a href="https://play.google.com/store/apps/details?id=appinventor.ai_cakoch10.ChemistryMadeEasy" target="_blank">
+            <img src="img/icons/google-play.svg" width="25" class="svg icon2">
+          </a>
+        </center>
+      </div>
+    </div>
   </div>
   </body>
-  <!-- <script src="particles.js"></script>
-  <script src="js/app.js"></script> -->
 </html>
+
+<!-- <script type="text/javascript">
+  function changeDiv(i){
+   if (i == 1) {
+    //  document.getElementById("ttt").innerHTML = document.getElementById("links").innerHTML;
+    document.getElementById("ttt").style.display = "none";
+    document.getElementById("links").style.display = "block";
+   }
+   else {
+     document.getElementById("ttt").style.display = "block";
+     document.getElementById("ttt").innerHTML = document.getElementById("papers").innerHTML;
+     document.getElementById("links").style.display = "none";
+   }
+}
+</script> -->
