@@ -1,0 +1,132 @@
+
+  #main {
+    margin-top: 50px;
+  }
+  
+  .ym-wrapper {
+    max-width: 56em;
+    margin: 0 auto;
+  }
+  
+  .ym-wbox { 
+    padding: 1em 1.8em;
+  }
+
+  /* HEADER (below navigation) */
+  
+  .ym-col1 { float: left; width: 230px; text-align: center; } /* sidebar */
+  .ym-col3 { margin: 0 0 0 230px; } /* content */
+  
+  @media screen and ( max-width: 822px )  {
+  
+    /* linearization for column module */
+    .linearize-level-1,
+    .linearize-level-1 > [class*="ym-col"] {
+      display: block;
+      float: none;
+      padding: 0;
+      margin: 0;
+      width: 100% !important;
+    }
+  
+    /* reset defined gutter values */
+    .linearize-level-1 > [class*="ym-col"] > [class*="ym-cbox"] {
+      overflow: hidden; /* optional for containing floats */
+      padding: 0;
+      margin: 0;
+    }
+  
+    .ym-col3 {
+      text-align: center;
+    }
+    .ym-col3 p {
+      text-align: left;
+    }
+  
+    #portrait img {
+      max-width: 300px !important;
+    }
+  
+    .line-frame {
+      margin-top: 1.8em !important;
+    }
+  
+    .ym-wbox {
+      padding: 1ex 1em;
+    }
+  }
+  
+  #header p {
+    display: inline-block;
+    margin-right: 1.5em;
+  }
+  
+  #header {
+    margin: 1.5em 1.2em;
+  }
+  
+  #header h1 {
+    padding-top: 0.5ex;
+  }
+  
+  #header .bordered {
+    margin: 0;
+  }
+  
+  #header a > i {
+    color: black;
+    font-size: 110%;
+  }
+  
+  #portrait-box {
+    display: inline-block;
+    position: relative;
+  }
+  
+  #portrait img {
+    max-width: 200px;
+  }
+  
+  #portrait .img-hidden {
+      display: none;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 99;
+  }
+  
+  #portrait:hover .img-hover {
+      display: inline;
+  }
+  
+  #portrait:active .img-click {
+      display: inline;
+  }
+  
+  .title {
+    font-weight: 600;
+  }
+  
+  .authors {
+    font-style: italic;
+  }
+  
+
+  /* optimizations for phones */
+  @media only screen and (max-width: 769px) {
+    #main {
+      margin-top: 90px;
+    }
+  
+    a.anchor {
+      top: -120px !important;
+    }
+  
+    #projects li {
+      margin: 0 0 0 0.8em;
+    }
+  
+    #projects img, #projects li {
+      max-width: 130px;
+    }
+  }

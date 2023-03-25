@@ -1,0 +1,197 @@
+/**
+ * "Yet Another Multicolumn Layout" - YAML CSS Framework
+ *
+ * (en) Uniform design of standard content elements
+ * (de) Einheitliche Standardformatierungen für die wichtigten Inhalts-Elemente
+ *
+ * @copyright       Copyright 2005-2012, Dirk Jesse
+ * @license         CC-BY 2.0 (http://creativecommons.org/licenses/by/2.0/),
+ *                  YAML-CDL (http://www.yaml.de/license.html)
+ * @link            http://www.yaml.de
+ * @package         yaml
+ * @version         v4.0.1
+ * @revision        $Revision: 724 $
+ * @lastmodified    $Date: 2012-03-03 11:45:41 +0100 (Sa, 03 Mrz 2012) $
+ * @appdef yaml
+ */
+
+ @media all {
+
+	/* (en) base layout gets standard font size 14px */
+	body {
+		font-family: 'Palatino Linotype','Book Antiqua','serif';
+		font-weight: 300;
+		font-size: 95%; /* base: 14px */
+		line-height:1.5em;
+		color:#333;
+
+		/* (en) Prevent auto-scaling of text in mobile webkit browsers */
+		-webkit-text-size-adjust:100%;
+	}
+
+	/*--- Headings ------------------------------------------------------------------------*/
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		font-family: 'Palatino Linotype','Book Antiqua','serif';
+		font-weight: 300;
+		/*color:#333;*/
+		color: rgb(0, 28, 121);
+		margin:0;
+	}
+
+
+	.line-frame {
+  		overflow: hidden;
+  		line-height: 1.1em; /* avoid cropping too much*/
+  		position: relative;
+  		margin: 1.3em 0 -0.1em 0;
+	}
+
+	.line-frame:before {
+		content: '―';
+		font-weight: 200;
+		margin-right: 0.5ex;
+	}
+
+	.line-frame:after {
+	  content:'';
+	  display:inline-block;
+	  width:100%; height:55%;
+	  /*margin-right:-100%;*/
+	  margin-left:0.8ex;
+	  border-bottom:1px solid;
+	  position: absolute;
+
+	}
+
+	h1 {
+		font-size:250%;
+		line-height: 0.8571em;
+		margin: 0.4286em 0 0;
+	}
+
+	h2 {
+		font-size:200%;
+		line-height: 1.2em;
+		margin: 0.6em 0 0 0;
+	}
+
+	h3 {
+		font-size:140%;
+		line-height: 0.8571em;
+		margin:1em 0 0 0;
+	}
+
+	h3 > small {
+		font-size: 66%;
+	}
+
+	h4 {
+		font-size:133.33%;
+		line-height: 1.125em;
+		margin:1.125em 0 0 0;
+	}
+
+	h5 {
+		font-size:116.67%;
+		line-height: 1.2857em;
+		margin: 1.2857em 0 0 0;
+	}
+
+	h6 {
+		font-weight: normal;
+		font-size:100%;
+		line-height: 1.5em;
+		margin: 1.5em 0 0 0;
+	}
+
+	/* --- general text formatting ------------------------------------------ */
+
+	p {
+		font-size:1em;
+		line-height:1.5em;
+		margin: 1em 0 0 0;
+        vertical-align:top;
+	} 
+
+	strong, b { font-weight:normal; }
+
+	em, i { font-style:italic; }
+
+	big {
+		font-size:116.667%;
+	}
+
+	small {
+		font-size:85.71%;
+	}
+
+
+	/*--- Links ----------------------------------------------------------------------------------------- */
+
+	a {
+		/*color:#B31B1B;*/
+		color: rgb(0, 28, 121);
+		background:transparent;
+		text-decoration:none;
+	}
+
+	a:active { outline: none; }
+
+	/* (en) maximum constrast for tab focus - change with great care */
+	/* (en) Maximaler Kontrast für Tab Focus - Ändern Sie diese Regel mit Bedacht */
+	a:hover,
+	a:focus {
+		color:#44C;
+		text-decoration:underline;
+	}
+
+	/* --- images ------------------ */
+
+	img {
+        width:80%;
+        height: auto;
+    }
+	figure {
+		margin: 0;
+	}
+
+	.flexible {
+		margin-top: 1.5em;
+		max-width: 100%;
+		height: auto;
+	}
+
+	* html .flexible {	/* IE6 support */
+		width: 98%;		/* 2% space for borders */
+	}
+
+	.bordered {
+		margin-top: 1.5em;
+		border: 2px #eee solid;
+		border: 2px rgba(255,255,255,1) solid;
+		-webkit-box-shadow: 0 0 3px rgba(0,0,0,.25);
+		-moz-box-shadow: 0 0 3px rgba(0,0,0,.25);
+		box-shadow: 0 0 3px rgba(0,0,0,.25);
+	}
+
+	/**
+	* ------------------------------------------------------------------------------------------------- #
+	*
+	* Tables
+	* Generic classes for table-width and design definition
+	*
+	* @section content-tables
+	*/
+
+	table {
+		width:100%;
+		border-collapse:collapse;
+		margin: 1.3571em 0 0 0;
+	}
+ }
