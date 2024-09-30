@@ -110,6 +110,10 @@
   .authors {
     font-style: italic;
   }
+
+  .awards {
+    font-weight: bold;
+  }
   
 
   /* optimizations for phones */
