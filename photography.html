@@ -1,0 +1,108 @@
+<!-- This html file displays the photos listed in gallery.json from the photos directory
+     Make sure to use generate_json.py to auto generate the gallery.json after adding photos -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photography</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            /* background-color: #333; */
+            /* color: white; */
+            padding: 1rem;
+            text-align: center;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+            padding: 20px;
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+            cursor: pointer;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease;
+        }
+        .gallery img:hover {
+            transform: scale(1.5);
+        }
+        .lightbox {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+        .lightbox img {
+            max-width: 90%;
+            max-height: 90%;
+            border-radius: 5px;
+        }
+        .lightbox:target {
+            display: flex;
+        }
+        .lightbox a {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            color: white;
+            font-size: 2rem;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Photography</h1>
+</header>
+
+<div class="gallery" id="photo-gallery">
+    <!-- Images will be dynamically loaded here -->
+</div>
+
+<script>
+    async function loadPhotos() {
+        try {
+            const response = await fetch('gallery.json');
+            const photos = await response.json();
+            const gallery = document.getElementById('photo-gallery');
+
+            photos.forEach(photo => {
+                const thumbnail = document.createElement('a');
+                thumbnail.href = `photos/${photo}`;
+                thumbnail.target = '_blank'; // Optional: Open full image in a new tab
+                const img = document.createElement('img');
+                img.src = `photos/${photo}`;
+                img.alt = photo;
+                thumbnail.appendChild(img);
+                gallery.appendChild(thumbnail);
+            });
+        } catch (error) {
+            console.error('Error loading photos:', error);
+        }
+    }
+
+    // Load photos on page load
+    window.onload = loadPhotos;
+</script>
+
+</body>
+</html>
